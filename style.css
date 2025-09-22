@@ -5,7 +5,7 @@ body {
   background-image: url('ITIID.png');
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 600px;
+  background-size: 300px;
   color: #00ffe7;
   display: flex;
   justify-content: center;
@@ -16,7 +16,7 @@ body {
 .container {
   text-align: center;
   background: rgba(0, 0, 0, 0.6);
-  padding: 150px;
+  padding: 75px;
   border-radius: 20px;
   box-shadow: 0 0 30px #00ffe7;
   border: 2px solid #00ffe7;
@@ -61,4 +61,5 @@ button:hover {
   font-size: 0.9rem;
   color: #aaa;
 }
+
 
